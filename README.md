@@ -5,3 +5,4 @@ LAB 02 https://github.com/GovardhanRajulapati073/AIML-2025/blob/main/AIML_LAB_2_
 LAB 03 https://github.com/GovardhanRajulapati073/AIML-2025/blob/main/AIML_3_TicTacToe.ipynb
 LAB 04 https://github.com/GovardhanRajulapati073/AIML-2025/blob/main/AIML_LAB_4.ipynb
 LAB 05 https://github.com/GovardhanRajulapati073/AIML-2025/blob/main/AIML_Ass_05.ipynb
+LAB 06 https://github.com/GovardhanRajulapati073/AIML-2025/blob/main/AIML_LAB_06.ipynb
