@@ -10,3 +10,4 @@ LAB - 07  https://github.com/GovardhanRajulapati073/AIML-2025/blob/main/Lab_07_A
 LAB - 08  https://github.com/GovardhanRajulapati073/AIML-2025/blob/main/AIML_ASS_08.ipynb
 LAB - 09  https://github.com/GovardhanRajulapati073/AIML-2025/blob/main/AIML_LAB_9.ipynb
 LAB - 10 https://github.com/GovardhanRajulapati073/AIML-2025/blob/main/LAB_10.ipynb
+AIML LAB EXAM  https://github.com/GovardhanRajulapati073/AIML-2025/blob/main/2303A54044_AIML_LAB_EXAM.ipynb
